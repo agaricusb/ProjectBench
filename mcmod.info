@@ -5,7 +5,7 @@
   "description": "Project Bench - for all those failed crafting attempts because of forgotten materials",
   "version": "1.7.2",
   "mcversion": "1.5.1",
-  "url": "http://www.minecraftforum.net/topic/1550010-142132sspsmp-project-bench-forge/",
+  "url": "http://www.minecraftforum.net/topic/1550010-",
   "updateUrl": "",
   "authors": [
     "bau5"
@@ -15,7 +15,7 @@
   "screenshots": [ "/pb_resources/screenshots/pic1.png", "/pb_resources/screenshots/pic3.png", "/pb_resources/screenshots/pic2.png"
   ],
   "parent":"",
-  "dependencies": [ "MinecraftForge"
+  "dependencies": [ "mod_MinecraftForge"
   ]
 }
 ]
